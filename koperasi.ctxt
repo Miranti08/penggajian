@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=koperasi
+comment1.params=
+comment1.target=void\ identitas()
+comment2.params=
+comment2.target=void\ laporan_keu()
+comment3.params=
+comment3.target=double\ limit()
+numComments=4
